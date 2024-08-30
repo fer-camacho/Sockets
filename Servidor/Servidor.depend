@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1724877766 source:c:\users\camac\desktop\facultad\sistemas distribuidos\tp sockets\servidor\main.c
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1724383400 source:c:\users\camac\desktop\facultad\sistemas distribuidos\tp sockets\servidor\servidor.c
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+
